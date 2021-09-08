@@ -2,7 +2,6 @@
 
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 Estudando JavaScript.
-- ela/dela.
 
 <div>
   <a href= "https://github.com/MarianaBJ">
