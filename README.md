@@ -1,7 +1,9 @@
-### Olá! Eu sou a Mariana Jesus!
+### Desenvolvedora Front-end | Javascript | React | HTML5 | CSS3 | GIT 
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 Estudando JavaScript.
+- Estágio como desenvolvedora Front-end.
+- Estudando React, sass e redux.
+- 
 
 <div>
   <a href= "https://github.com/MarianaBJ">
@@ -12,12 +14,14 @@
   <div style="display: inline_block"></br>
   <img align="center" alt="Mari-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
+    <img align="center" alt="Mari-React" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="Mari-HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Mari-CSS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--
-  <img align="center" alt="Mari-React" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 
+<!--
 <img align="center" alt="Mari-Ts" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
   -->
