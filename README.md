@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaBJ&layout-compact&langs_count16&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"></br>
+  <div style="display: flex"></br>
   <img align="center" alt="Mari-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Mari-HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
