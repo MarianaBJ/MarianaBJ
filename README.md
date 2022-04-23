@@ -4,13 +4,13 @@
 - Estágio como desenvolvedora Front-end.
 - Estudando React, sass e redux.
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center;">
   <a href= "https://github.com/MarianaBJ">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=MarianaBJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaBJ&layout-compact&langs_count16&theme=dark"/>
 </div>
   
-  <div style="display: flex; justify-content: center">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
   <img align="center" alt="Mari-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Mari-HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
