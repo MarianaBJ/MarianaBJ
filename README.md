@@ -1,7 +1,6 @@
 ### Desenvolvedora Front-end | Javascript | React | HTML5 | CSS3 | GIT 
 
 <!-- 🔭 I’m currently working on ... -->
-- Estágio como desenvolvedora Front-end.
 - Estudando React, sass e redux.
 
 <div style="display: flex; justify-content: center;">
